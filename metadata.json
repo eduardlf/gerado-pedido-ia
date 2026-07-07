@@ -1,0 +1,10 @@
+{
+  "name": "Pedidos IA",
+  "description": "Aplicativo inteligente de emissão de pedidos de venda com leitura automática de Ordens de Compra por foto/câmera usando a API multimodal do Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
